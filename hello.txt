@@ -1,1 +1,3 @@
-Hello GitHub! we Acknowlage you
+Hello GitHub! we Acknowlage you.
+
+I am learning Git and GitHub.
