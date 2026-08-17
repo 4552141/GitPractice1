@@ -10,3 +10,4 @@ This message was created on my feature branch.
 
 Learning Git one commit at a time.
 
+I am learning the Git staging area.
